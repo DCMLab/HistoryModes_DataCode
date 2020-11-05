@@ -53,3 +53,8 @@ All configuration files and all files that contain programming code are under GP
 All other files are under CCv4 BY-NC-SA license that is written in the file `LICENSE_CC.md`. This includes in particular files with a name extension of `.csv`, `.txt`, and `.pdf`.
 
 If you use any of the code or data from this repository in your own work, please provide a reference to our research paper as specified above.
+
+## Funding statement
+
+This project has received partial funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation program under grant agreement No 760081 – PMSB. It was also partially funded through the Swiss National Science Foundation within the project "Distant
+Listening – The Development of Harmony over Three Centuries (1700–2000)". We thank Claude Latour for supporting this research through the Latour Chair in Digital Musicology. We want to express our gratefulness towards the owners of [ClassicalArchives](https://www.classicalarchives.com/), in particular Pierre R. Schwob, for making the data available for our research.
