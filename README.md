@@ -2,8 +2,8 @@
 
 This repository contains the data and code necessary to reproduce the results for our paper "Exploring the foundations of tonality: Statistical cognitive modeling of modes in the history of Western classical music", published in [*Humanities and Social Sciences Communications*](https://www.nature.com/palcomms/).
 
-* Link to paper:
-* Link to appendix:
+* Link to paper: *not available yet*
+* Link to appendix: *not available yet*
 
 ## Files
 ### Data
@@ -48,4 +48,8 @@ Harasim, D., Moss, F. C., Ramirez, M., & Rohrmeier, M. (2020). Exploring the fou
 
 ## License
 
-To be added
+All configuration files and all files that contain programming code are under GPLv3 license that is written in the file `LICENSE_GPL.txt`. This includes in particular files with a name extension of `.jl`, `.toml`, and `.ipynb`.
+
+All other files are under CCv4 BY-NC-SA license that is written in the file `LICENSE_CC.md`. This includes in particular files with a name extension of `.csv`, `.txt`, and `.pdf`.
+
+If you use any of the code or data from this repository in your own work, please provide a reference to our research paper as specified above.
