@@ -2,8 +2,7 @@
 
 This repository contains the data and code necessary to reproduce the results for our paper "Exploring the foundations of tonality: Statistical cognitive modeling of modes in the history of Western classical music", published in [*Humanities and Social Sciences Communications*](https://www.nature.com/palcomms/).
 
-* Link to paper: *not available yet*
-* Link to appendix: *not available yet*
+* Link to paper: https://www.nature.com/articles/s41599-020-00678-6
 
 ## Files
 ### Data
@@ -26,7 +25,7 @@ Harasim, D., Moss, F. C., Ramirez, M., & Rohrmeier, M. (2020). Exploring the fou
 **BibTex**
 
 ```
-@article{Harasim2020,
+@article{Harasim2021,
 	author = {
 		Harasim, Daniel and 
 		Moss, Fabian C. and 
@@ -39,10 +38,10 @@ Harasim, D., Moss, F. C., Ramirez, M., & Rohrmeier, M. (2020). Exploring the fou
 		in the history of Western classical music
 		},
 	journal = {Humanities and Social Sciences Communications},
-	volume = {},
-	number = {}
-	year = {2020},
-	doi = {}
+	volume = {8},
+	number = {5}
+	year = {2021},
+	doi = {10.1057/s41599-020-00678-6}
 }
 ```
 
